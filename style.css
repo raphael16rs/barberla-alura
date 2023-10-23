@@ -1,4 +1,4 @@
-body {
+.principal {
     background: #2a07ee;
 }
 
@@ -17,4 +17,16 @@ p {
 
 #banner{
     width: ;    
+}
+
+.beneficios-titulos {
+    text-align: center; 
+}
+
+.itens {
+    font-style: italic
+}
+
+.beneficios {
+       background-color: aliceblue;
 }
