@@ -30,3 +30,12 @@ p {
 .beneficios {
        background-color: aliceblue;
 }
+
+ul {
+    display: inline-block;
+    width: 20%;
+}
+
+.beneficios-imagem{
+     width: 50%;
+}
